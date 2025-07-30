@@ -2,3 +2,10 @@
 
 ## Introduction
 MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and manipulating databases. It is widely used for web applications, data warehousing, and other data-driven applications due to its reliability, performance, and ease of use.
+
+## Common MySQL Data Types
+- **Numeric**: `INT`, `FLOAT`, `DOUBLE`, `DECIMAL`
+- **String**: `CHAR`, `VARCHAR`, `TEXT`
+- **Date/Time**: `DATE`, `TIME`, `DATETIME`, `TIMESTAMP`
+- **Boolean**: `BOOLEAN` (stored as `TINYINT(1)`)
+- **Binary**: `BLOB`, `BINARY`, `VARBINARY`
